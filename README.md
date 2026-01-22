@@ -1,5 +1,5 @@
 Reflection <br>
 | Task | Reflection |
-|---|---|---|
+|---|---|
 | Cell A1 | Cell B1 |
 | Cell A2 | Cell B2 |
